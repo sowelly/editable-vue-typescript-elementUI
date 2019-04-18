@@ -27,3 +27,9 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### About Page for QueryParams
+ <QueryParams @childData="childData" :tableData="tableData"></QueryParams>
+ 
+childData 回传
+tableData 传入
